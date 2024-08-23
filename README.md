@@ -23,7 +23,7 @@ Este projeto contém um script em Python que realiza a atualização de registro
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seuusuario/mongodb-product-updater.git
+   git clone https://github.com/tiagoceridorio/mongodb-product-updater.git
    ```
 
 2. Instale as dependências necessárias:
